@@ -29,7 +29,7 @@ submitsubmitTimerButton.addEventListener('click', function () {
     }
 })
 
-//таймер!!
+//таймер!
 
 const input = document.getElementById('input');
 const blockTime = document.querySelector('.time');
