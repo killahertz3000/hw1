@@ -34,7 +34,7 @@ submitsubmitTimerButton.addEventListener('click', function () {
 const input = document.getElementById('input');
 const blockTime = document.querySelector('.time');
 let sound = new Howl({
-    src: ['./sound/iphone.mp3'],
+    src: ['sound/iphone.mp3'],
     volume: 0.8
 });
 let interval;
